@@ -1,3 +1,3 @@
 # Certificard
 
-https://codepen.io/EdsuDev/pen/yLgbeJV
+https://codepen.io/EdsuDev/full/yLgbeJV
